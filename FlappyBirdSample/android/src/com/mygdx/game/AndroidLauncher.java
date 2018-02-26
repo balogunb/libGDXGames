@@ -1,10 +1,10 @@
-package com.mygdxflappy.game;
+package com.mygdx.game;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.mygdxflappy.game.FlappyB;
+import com.mygdx.game.FlappyB;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override

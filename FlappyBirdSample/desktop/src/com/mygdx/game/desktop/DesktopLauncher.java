@@ -1,8 +1,8 @@
-package com.mygdxflappy.game.desktop;
+package com.mygdx.game.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.mygdxflappy.game.FlappyB;
+import com.mygdx.game.FlappyB;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
